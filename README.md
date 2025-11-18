@@ -96,3 +96,29 @@ PARSE_SERVER_URL=https://parseapi.back4app.com/
 ```
 flutter run -d chrome
 ```
+
+## Screenshot
+
+### Login Screen
+![alt text](<Login Screen.png>)
+
+### Register Screen
+![alt text](<Register Screen.png>)
+
+### Empty Task List
+![alt text](<Empty Task List.png>)
+
+### Add Task Screen
+![alt text](<Add Task Screen.png>)
+
+### Task List after adding
+![alt text](<Task List after adding.png>)
+
+### Edit Task Screen
+![alt text](<Edit Task Screen.png>)
+
+### Back4App Database Dashboard showing Tasks class
+![alt text](<Back4App Database Dashboard showing Tasks class.png>)
+
+### Back4App App Settings
+![alt text](<Back4App App Settings.png>)
