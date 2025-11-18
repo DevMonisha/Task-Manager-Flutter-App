@@ -122,3 +122,8 @@ flutter run -d chrome
 
 ### Back4App App Settings
 ![alt text](<Back4App App Settings.png>)
+
+## Demo video link
+```
+https://drive.google.com/file/d/1jBtYSnL5tc1oqBQ5xQwpTTvUPwnml6um/view?usp=sharing
+```
